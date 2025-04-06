@@ -1,10 +1,6 @@
-#Dataset for GNN: https://drive.google.com/drive/folders/11KJCix7QN3zJaKRrv1Hx14P5OVdB3cty?usp=sharing
-
-
-# GIS
 Dataset for MATLAB code: Data will be made available on request.
 
-Dust Emission Forecasting Model
+Dust_Source_Emission_Forecasting
 
 1. Overview
 This repository contains a MATLAB-based machine-learning pipeline for forecasting dust emissions using geospatial and environmental data (2000–2021). The model integrates multiple classifiers (Random Forest, SVM, KNN, multinomial Naive Bayes) and performs feature importance analysis to identify key drivers of dust events.
@@ -110,4 +106,6 @@ Version Information
 Current Version: v1.0 (tagged as submission-version)
 
 MATLAB Compatibility: R2021a–R2023a
+
+#Dataset for GNN: https://drive.google.com/drive/folders/11KJCix7QN3zJaKRrv1Hx14P5OVdB3cty?usp=sharing
 
